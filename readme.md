@@ -6,7 +6,7 @@
 
 > Notifier app is a Desktop app from which user can set the notification as per their time with title and message. 
 
-Complete video of creating this app with explanation on [YOUTUBE](https://youtu.be/cfjPfYuZBZs)
+Complete video of creating this app with explanation on [YOUTUBE](https://www.youtube.com/watch?v=cfjPfYuZBZs&t=6s)
 
 <br>
 
